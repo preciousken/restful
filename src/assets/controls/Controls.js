@@ -1,0 +1,7 @@
+export const REGISTER ='REGISTER'
+export const LOGIN ='LOGIN'
+export const ERROR = 'ERROR'
+export const CLOSE_MODAL ='CLOSE_MODAL'
+export const ALLPRODUCTS = 'ALLPRODUCTS'
+export const BEST_SELLING = 'BEST_SELLING'
+export const NAVIGATE = 'NAVIGATE'
